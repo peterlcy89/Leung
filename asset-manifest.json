@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/Leung/static/css/main.05c3b073.css",
+    "main.js": "/Leung/static/js/main.3dda8c72.js",
+    "static/js/27.4c89b8ed.chunk.js": "/Leung/static/js/27.4c89b8ed.chunk.js",
+    "index.html": "/Leung/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.05c3b073.css",
+    "static/js/main.3dda8c72.js"
+  ]
+}
